@@ -20,4 +20,4 @@
 11. Collect ATM card;
 
 Body:
-User starts standing in front of teller machine with ATM card in hand and follows steps outlined until cash and ATM card are in hand.
+User starts standing in front of teller machine with ATM card in hand and follows steps outlined until transfer is completed sucesfully.
